@@ -1,11 +1,11 @@
 # Company names
 
-## Task
+## Task :pushpin:
 Comparison of company names (they are duplicates or not) and search for similar companies in the database.
 
 <br/>
 
-## Dataset
+## Dataset :clipboard:
 [Link to the dataset.](https://drive.google.com/file/d/1e9bdr7wcQX_YBudQcsKj-sMoIGxQOlK4/view)
 
 pair_id - pair number
@@ -26,7 +26,7 @@ Example:
 
 <br/>
 
-## Preprocessing
+## Preprocessing :scissors:
 
 - removing brackets () and internal text
 - removing numbers
@@ -47,7 +47,7 @@ Example:
 
 <br/>
 
-## Models
+## Models :package:
 
 ### The Levenshtein distance is used to compare two company names.
 
@@ -62,7 +62,7 @@ The accuracy  measured using the Levenshtein distance with Character Error Rate 
 
 <br/>
 
-## Performance :white_check_mark: Это уже сделано    
+## Performance :computer: 
 
 CPU: Intel i5-10210U CPU @ 1.60GHz
 
@@ -73,7 +73,7 @@ Speed of processing a request for similar names(Word2vec, MiniBatchKMeans, Leven
 
 <br/>
 
-## Usage
+## Usage :information_desk_person:
 
 You can open tutorial.ipynb to demonstrate the work of the project. Before using it, you need to install the project dependencies:
 
