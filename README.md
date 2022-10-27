@@ -62,7 +62,7 @@ The accuracy  measured using the Levenshtein distance with Character Error Rate 
 
 <br/>
 
-## Performance
+## Performance :white_check_mark: Это уже сделано    
 
 CPU: Intel i5-10210U CPU @ 1.60GHz
 
