@@ -75,7 +75,7 @@ Speed of processing a request for similar names(Word2vec, MiniBatchKMeans, Leven
 
 ## Usage :information_desk_person:
 
-You can open tutorial.ipynb to demonstrate the work of the project. Before using it, you need to install the project dependencies:
+You can open tutorial.ipynb to demonstrate the work of the project. Before using the project, you need to install the project dependencies:
 
 
 ```
